@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Virus
+  - Mask
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - tile_road
+  - tile_block
+  - player
+  - home
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3028009363
+    locked: 0
+  - name: foreground
+    uniqueID: 2946423857
+    locked: 0
+  - name: start
+    uniqueID: 3934681919
+    locked: 0
+  - name: block
+    uniqueID: 846102457
+    locked: 0
+  - name: player
+    uniqueID: 1273087247
+    locked: 0
+  - name: end
+    uniqueID: 2045030357
+    locked: 0
+  - name: wall
+    uniqueID: 16851003
+    locked: 0
